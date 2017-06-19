@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SoundHeaven
 
 [Heroku link][heroku] **Note:** This should be a link to your production site
@@ -66,6 +65,3 @@ BONUS:
 - [ ] Wave forms
 - [ ] Playlists
 - [ ] Likes
-=======
-Some Name 
->>>>>>> 362ac81d55e24b910d9d039b4149f73a30883e51
