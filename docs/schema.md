@@ -14,7 +14,7 @@ column name | data type | details
 ------------|-----------|-----------------------
 id          | integer   | not null, primary key
 title       | string    | not null
-artistId    | text      | not null
+artist_id   | text      | not null
 album_image | attachment|
 genre       | string    |
 song file   | string    | not null

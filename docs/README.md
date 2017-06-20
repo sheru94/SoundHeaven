@@ -2,7 +2,7 @@
 
 [Heroku link][heroku] **Note:** This should be a link to your production site
 
-[Trello link][trello]
+[Trello link]https://trello.com/b/BJGv68W4/soundcloud
 
 [heroku]:
 [trello]:
@@ -45,7 +45,7 @@ BONUS:
 
 **Objective:** Functioning rails project with front-end Authentication
 
-### Phase 2: Tracks Model, API, and components (3 days)
+### Phase 2: Tracks Model, API, and components (2 days)
 
 **Objective:** Tracks can be uploaded, read and destroyed.
 
@@ -53,9 +53,10 @@ BONUS:
 
 **Objective:** Functioning playbar
 
-### Phase 4: Track show page (2 day)
+### Phase 4: Track and User show page (2 day)
 
-**Objective:** Tracks have a show page with their album cover and comment functionality.
+**Objective:** Tracks have a show page with their album cover and comment functionality. Users should
+have a profile where we can view their uploaded tracks. 
 
 ### Phase 5: CSS and clean up (1 day)
 

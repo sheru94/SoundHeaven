@@ -10,6 +10,8 @@
 
 ### Users
 
+- `GET /api/users/:id`
+get user profile and their uploaded tracks 
 - `POST /api/users`
 - `PATCH /api/users`
 
@@ -32,6 +34,5 @@
 
 
 ### Comments
-- `GET /api/tracks/track_id/comments`
 - `POST /api/tracks/track_id/comments`
   required data: body, track_id
